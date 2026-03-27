@@ -1,0 +1,5 @@
+{
+  "name": "Image Multi-Tools",
+  "description": "A privacy-first, client-side suite of image and PDF tools including conversion, compression, resizing, and watermarking. No server uploads required.",
+  "requestFramePermissions": []
+}
